@@ -1,5 +1,6 @@
 How to add the Norwegian Bokmål translation to Sileo on your device:
-- Download these files on your iDevice and open them in Filza.
+- Download the zip file or the 4 individual files on your iDevice and open them in Filza.
+- If you downloaded the zip file unpack it.
 - Create a folder called 'nb.lproj'.
 - Place the 4 files you have downloaded into the folder.
 - Copy the folder.
